@@ -6,6 +6,7 @@ Pour installer RedAnime il vous faut télécharger l'archive ensuite il vous fau
 
 ## Pourquoi ne pas le mettre sur le Google Store?
 Je n'est absolument pas envie de payer 6$ pour pouvoir déposé peut-être qu'un seul thème dessus.
+https://static.kaha.cf/github/redanime/pay.PNG
 
 # RedAnime (EN)
 RedAnime is my very first theme for a web browser in general it is only available and usable on the Google Chrome browser.
@@ -15,6 +16,7 @@ To install RedAnime you have to download the archive then you have to extract th
 
 ## Why not put it on the Google Store?
 I absolutely do not want to pay 6$ to be able to deposit maybe only one theme on it.
+https://static.kaha.cf/github/redanime/pay.PNG
 
 # RedAnime (FR/EN)
 ## ScreenShot
